@@ -8,7 +8,7 @@ The project uses TF-IDF for text feature extraction and compares multiple machin
 
 Try the deployed Streamlit application:
 
-https://fake-news-detection-nlp-bahdmekqtghdmot3flapk.streamlit.app/
+https://fake-news-detection-nlp-bahdmekqtglhdmot3flapk.streamlit.app/
 
 ## 📌 Project Overview
 
